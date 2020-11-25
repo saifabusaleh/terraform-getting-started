@@ -1,0 +1,4 @@
+webserver_key.pem
+terraform.tfstate*
+terraform.tfvars
+.terraform
